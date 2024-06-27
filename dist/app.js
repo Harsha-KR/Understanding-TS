@@ -6,3 +6,4 @@ const n1 = 5;
 const n2 = 2.8;
 const sum = add(n1, n2);
 console.log("The sum is : " + sum);
+//# sourceMappingURL=app.js.map
